@@ -1,6 +1,6 @@
 `ButtonEx` 组件，一个对 `UnityEngine.UI.Button` Unity的扩展。实现了除`onClick`外的常用按钮交互事件，定制了Inspector
 
-   ![ButtonEx](./Doc/ButtonExPreview.png)
+   ![ButtonEx](../../Doc/ButtonExPreview.png)
 
 **项目结构：**
 
