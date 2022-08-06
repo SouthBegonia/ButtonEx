@@ -238,6 +238,7 @@ namespace MyProject.UI
 		{
 			isPointerDown = false;
 			isPointerInside = false;
+			base.OnDisable();
 		}
 
 		/*private void ExPress()
